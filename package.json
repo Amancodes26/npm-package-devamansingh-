@@ -1,0 +1,22 @@
+{
+  "name": "devamansingh",
+  "version": "1.0.0",
+  "description": "my intro",
+  "main": "cli.js",
+  "bin": "cli.js",
+  "files": ["cli.js"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amancodes26/devaman.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["about me"],
+  "author": "Aman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amancodes26/devaman/issues"
+  },
+  "homepage": "https://github.com/amancodes26/devaman#readme"
+}
